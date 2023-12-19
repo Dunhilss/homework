@@ -17,3 +17,5 @@ elif number2 <= number1 and number2 <= number3:
 elif number3 <= number1 and number3 <= number2:
     print(f"Highest number is: {number3}")
 else: print(f"Try again...")
+
+print(f"The arithmetic mean: {(number1 + number2 + number3) / 3}")
